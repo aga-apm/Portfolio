@@ -14,7 +14,18 @@ adding/ edditing test case in Jira and Testlink, Plan test - aplication Coders G
   * Agile retrospective. 
   * Reporting, creating reports, discussing test reports.
 ## Technical skills
+ * Software testing
+   * Creating test cases
+   * Reporting bugs
+ * SQL
+ * DevTools
+ * Agile Development MethodologY.
 ## Tools
+ * Github
+ * MySQL Workbench
+ * Jira
+ * TestLink
+ * Postman
 ## My projects ( in polish version )
  * Coders Guru- aplication.
    * Test Plan
