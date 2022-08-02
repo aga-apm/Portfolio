@@ -9,11 +9,11 @@ organizer: Coders Lab - szkola IT , 06.2022 Warsaw
   * XML/WebServices
   * MySQL
 * 40 hours: Workshop:
- * Daily scrum, reporting bugs in Jira, test cases, practical case approach,
+  * Daily scrum, reporting bugs in Jira, test cases, practical case approach,
 adding/ edditing test case in Jira and Testlink, Plan test - aplication Coders Guru.
- * Agile retrospective. 
- * Reporting, creating reports, discussing test reports.
-# Technical skills
-# Tools
-# My projects
+  * Agile retrospective. 
+  * Reporting, creating reports, discussing test reports.
+## Technical skills
+## Tools
+## My projects
 ## Books
