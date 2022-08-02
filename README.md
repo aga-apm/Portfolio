@@ -1,8 +1,8 @@
 ## Portfolio
-# About me
+## About me
 My name is Aganieszka Maminska. I am currently working as a Graphic Coordinator at Reborn Group. Recently I have started to interest of software testing and Java. My goal is to develop testing knowlage and technical skills. On this repository I would like to share my all gained experience from courses and researches.
 # Courses
-Tester manualny
+Tester manualny,
 organizer: Coders Lab - szkola IT , 06.2022 Warsaw
 * 40 hours: ISTQB, XML/WebServices, MySQL
 * 40 hours: Workshop:
