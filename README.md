@@ -17,9 +17,10 @@ adding/ edditing test case in Jira and Testlink, Plan test - aplication Coders G
  * Software testing
    * Creating test cases
    * Reporting bugs
+   * Documentation review
  * SQL
  * DevTools
- * Agile Development MethodologY.
+ * Agile Development Methodology.
 ## Tools
  * Github
  * MySQL Workbench
@@ -29,6 +30,7 @@ adding/ edditing test case in Jira and Testlink, Plan test - aplication Coders G
 ## My projects ( in polish version )
  * Coders Guru- aplication.
    * Test Plan
+   * Test case in Testlink
  * My store
    * 
 ## Books
