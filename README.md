@@ -36,7 +36,7 @@ adding/ edditing test case in Jira and Testlink, Plan test - aplication Coders G
    * Reporting a bug -> [Przykład raportowania błędu w Jira](https://github.com/aga-apm/Portfolio/blob/main/ONLW30-302.doc.pdf)
    * Regression tests -> [Przykład testu regresji do strony sklepu internetowego](https://github.com/aga-apm/Portfolio/blob/main/ONLW30-677.doc.pdf)
 ## Project
- * Sudoku in Java -> [Sudoku game]
+ * Sudoku in Java -> [Sudoku game](https://github.com/aga-apm/Java-ee/blob/main/Sudoku.zip)
 ## Books
  * Certyfikowany tester ISTQB - Adam Roman, Lucjan STAPP.
  * Testowanie oprogramowania - Rafał Pawlak.
