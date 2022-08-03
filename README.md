@@ -35,6 +35,8 @@ adding/ edditing test case in Jira and Testlink, Plan test - aplication Coders G
  * My store - [Strona internetowa sklepu](https://dev-mystore-testlab.coderslab.pl/index.php)
    * Reporting a bug -> [Przykład raportowania błędu w Jira](https://github.com/aga-apm/Portfolio/blob/main/ONLW30-302.doc.pdf)
    * Regression tests -> [Przykład testu regresji do strony sklepu internetowego](https://github.com/aga-apm/Portfolio/blob/main/ONLW30-677.doc.pdf)
+## Project
+ * Sudoku in Java -> [Sudoku game]
 ## Books
  * Certyfikowany tester ISTQB - Adam Roman, Lucjan STAPP.
  * Testowanie oprogramowania - Rafał Pawlak.
