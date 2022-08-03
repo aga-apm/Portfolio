@@ -32,6 +32,7 @@ adding/ edditing test case in Jira and Testlink, Plan test - aplication Coders G
    * Test Plan -> [Plan testów - Coders Guru](../main/Wzor_Plan%20test%C3%B3w%20Coders%20Guru-%20Agnieszka%20Mami%C5%84ska.pdf)
    * Test cases in Testlink - report-> [Przypadki testowe - Coders Guru](https://github.com/aga-apm/Portfolio/blob/main/TestLink_%20raport.pdf)
    * Reporting a bug -> [Zgłoszenie błedu](https://github.com/aga-apm/Portfolio/blob/main/raport%20z%20b%C5%82%C4%99dem.pdf)
+   * Report from tests -> [report](https://github.com/aga-apm/Portfolio/blob/main/resultsTCFlat_ONL_TEM_W_30_Plan%20test%C3%B3w%20Coders%20Guru%20-AM.xls)
  * My store - [Strona internetowa sklepu](https://dev-mystore-testlab.coderslab.pl/index.php)
    * Reporting a bug -> [Przykład raportowania błędu w Jira](https://github.com/aga-apm/Portfolio/blob/main/ONLW30-302.doc.pdf)
    * Regression tests -> [Przykład testu regresji do strony sklepu internetowego](https://github.com/aga-apm/Portfolio/blob/main/ONLW30-677.doc.pdf)
