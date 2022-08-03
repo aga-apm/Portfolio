@@ -39,8 +39,8 @@ adding/ edditing test case in Jira and Testlink, Plan test - aplication Coders G
 ## Project
  * Sudoku in Java -> [Sudoku game](https://github.com/aga-apm/Java-ee/blob/main/Sudoku.zip)
 ## Certification ( polish version )
- * Certificate of completion of the course -> 
- * Diploma supplement ->
+ * Certificate of completion of the course -> [certificate](https://github.com/aga-apm/Portfolio/blob/main/Agnieszka%20Mami%C5%84ska_dyplom.pdf)
+ * Diploma supplement -> [supplement](https://github.com/aga-apm/Portfolio/blob/main/Agnieszka%20Mami%C5%84ska_suplement.pdf)
 ## Books
  * Certyfikowany tester ISTQB - Adam Roman, Lucjan STAPP.
  * Testowanie oprogramowania - Rafał Pawlak.
