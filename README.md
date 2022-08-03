@@ -34,7 +34,7 @@ adding/ edditing test case in Jira and Testlink, Plan test - aplication Coders G
    * Reporting a bug -> [Zgłoszenie błedu](https://github.com/aga-apm/Portfolio/blob/main/raport%20z%20b%C5%82%C4%99dem.pdf)
  * My store - [My store training website](https://dev-mystore-testlab.coderslab.pl/index.php)
    * Reporting a bug
-   * Regression tests
+   * Regression tests -> [Przykład testu regresji do strony sklepu internetowego](https://github.com/aga-apm/Portfolio/blob/main/ONLW30-677.doc.pdf)
 ## Books
  * Certyfikowany tester ISTQB - Adam Roman, Lucjan STAPP.
  * Testowanie oprogramowania - Rafał Pawlak.
