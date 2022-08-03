@@ -27,7 +27,7 @@ adding/ edditing test case in Jira and Testlink, Plan test - aplication Coders G
  * Jira
  * TestLink
  * Postman
-## My test documentation ( based on course done in polish )
+## My test documentation ( based on course done in polish language)
  * Coders Guru- [Coders Guru-website](https://tester.codersguru.pl/) (Aplikacja do komunikacji specjalistów z użytkownikami/studentami )
    * Test Plan -> [Plan testów - Coders Guru](../main/Wzor_Plan%20test%C3%B3w%20Coders%20Guru-%20Agnieszka%20Mami%C5%84ska.pdf)
    * Test cases in Testlink - report-> [Przypadki testowe - Coders Guru](https://github.com/aga-apm/Portfolio/blob/main/TestLink_%20raport.pdf)
