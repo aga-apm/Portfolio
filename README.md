@@ -29,7 +29,7 @@ adding/ edditing test case in Jira and Testlink, Plan test - aplication Coders G
  * Postman
 ## My projects ( in polish version )
  * Coders Guru- aplication.
-   * Test Plan -> https://github.com/aga-apm/Portfolio/blob/main/Wzor_Plan%20test%C3%B3w%20Coders%20Guru-%20Agnieszka%20Mami%C5%84ska.pdf
+   * Test Plan -> [https://github.com/aga-apm/Portfolio/blob/main/](Wzor_Plan%20test%C3%B3w%20Coders%20Guru-%20Agnieszka%20Mami%C5%84ska.pdf)
    * Test case in Testlink
  * My store
    * 
