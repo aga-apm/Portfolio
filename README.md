@@ -32,7 +32,8 @@ adding/ edditing test case in Jira and Testlink, Plan test - aplication Coders G
    * Test Plan -> [Test Plan - Coders Guru](../main/Wzor_Plan%20test%C3%B3w%20Coders%20Guru-%20Agnieszka%20Mami%C5%84ska.pdf)
    * Test cases in Testlink - report-> [Przypadki testowe - Coders Guru](https://github.com/aga-apm/Portfolio/blob/main/TestLink_%20raport.pdf)
  * My store - [My store training website](https://dev-mystore-testlab.coderslab.pl/index.php)
-   * 
+   * Reporting a bug
+   * Regression tests
 ## Books
  * Certyfikowany tester ISTQB - Adam Roman, Lucjan STAPP.
  * Testowanie oprogramowania - Rafał Pawlak.
