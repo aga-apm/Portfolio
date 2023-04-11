@@ -39,7 +39,7 @@ adding/ edditing test case in Jira and Testlink, Plan test - aplication Coders G
 ## Project
  * Sudoku in Java -> [Sudoku game](https://github.com/aga-apm/Java-ee/blob/main/Sudoku.zip)
 ## Certification ( polish version )
- * ISTQB® Certified Tester Foundation Level -> [Certificate](https://github.com/aga-apm/Portfolio/blob/main/20044_CTFL_2023_EN_Agnieszka_Maminska.pdf)
+ * ISTQB® Certified Tester Foundation Level -> [certificate](https://github.com/aga-apm/Portfolio/blob/main/20044_CTFL_2023_EN_Agnieszka_Maminska.pdf)
  * Certificate of completion of the course " Tester manualny "-> [certificate](https://github.com/aga-apm/Portfolio/blob/main/Agnieszka%20Mami%C5%84ska_dyplom.pdf)
  * Diploma supplement " Tester manualny" -> [supplement](https://github.com/aga-apm/Portfolio/blob/main/Agnieszka%20Mami%C5%84ska_suplement.pdf)
 ## Books
