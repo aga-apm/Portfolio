@@ -1,6 +1,6 @@
 # Portfolio
 ## About me
-My name is Aganieszka Maminska. I am currently working as a Graphic Coordinator at Reborn Group. Recently I have started to interest of software testing and programing in Java. My goal is to develop testing knowlage and technical skills. On this repository I would like to share my all gained experience from courses and researches.
+My name is Aganieszka Maminska. I am currently working as a Junior Protocol Test Engineer at Samsung Electronics. Recently I have started to interest of software testing and programing in Java. My goal is to develop testing knowlage and technical skills. On this repository I would like to share my all gained experience from courses and researches.
 ## Courses
 Tester manualny,
 organizer: Coders Lab - szkola IT , 06.2022 Warsaw
